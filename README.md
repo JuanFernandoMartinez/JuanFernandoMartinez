@@ -1,7 +1,7 @@
 ### praise be to the sun
 
 <!--
-**BrayanOB2003/BrayanOB2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fr4nkC0d3/Fr4nkC0d3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am a comedy estusiast 
 -->
 <div align="center">
-  <a href="https://github.com/BrayanOB2003">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrayanOB2003&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/JuanFernandoMartinez">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fr4nkC0d3&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanOB2003&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <div align="center" style="display: inline_block"><br>
