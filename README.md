@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img align="center" alt="BO-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="BO-JAVA" height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
   <img align="center" alt="BO-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="BO-KOTLIN" height="25" width="35" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg">
+  <img align="center" alt="BO-KOTLIN" height="25" width="35" src="[https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg](https://miro.medium.com/max/2400/1*yh90bW8jL4f8pOTZTvbzqw.png)">
        
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
