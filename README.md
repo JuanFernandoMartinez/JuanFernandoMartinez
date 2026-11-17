@@ -22,9 +22,4 @@ Here are some ideas to get you started:
   <img align="center" alt="BO-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="BO-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="BO-JAVA" height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
-  
-  
-       
- 
- 
 </div>
